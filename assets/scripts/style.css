@@ -1,0 +1,35 @@
+/* 
+not white - eff4ed
+not black - 3c403d
+not grey - daded4
+highlight - 39603d
+subtle highlight - a3bcb6
+green from instruction page  - 4aaaa5
+new green - 5ba34f
+
+
+h2 {
+    color: #5ba34f;
+    font-size: 50px;
+}
+*/
+
+h1 {
+    color: #5ba34f;
+    font-size: 45px
+}
+
+nav.custbg {
+    background-color: #ffffff;
+}
+
+@media (max-width: 800px) {
+    nav.custbg {
+        background-color: #5ba34f;
+    }
+}
+
+.padded {
+    padding-left: 50px;
+    padding-right: 50px;
+}
