@@ -1,7 +1,7 @@
-# Web-Design-Challenge
+# Weather Analysis 
+<br>
+For this challenge, graph created for an earlier challenge are now displayed on a webpage.
+<br>
+You can view the hosted webpage at the address below: <br> 
 
-still have to finish comparison page 
-
-bonus paGE 
-
-add content to other pages... they are bare, or increase font size 
+https://nikitacase.github.io/Web-Design-Challenge/
