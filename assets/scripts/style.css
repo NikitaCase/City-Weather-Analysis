@@ -7,12 +7,12 @@ subtle highlight - a3bcb6
 green from instruction page  - 4aaaa5
 new green - 5ba34f
 
+*/
 
 h2 {
     color: #5ba34f;
-    font-size: 50px;
+    font-size: 38px;
 }
-*/
 
 h1 {
     color: #5ba34f;
@@ -30,6 +30,6 @@ nav.custbg {
 }
 
 .padded {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
