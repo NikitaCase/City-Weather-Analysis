@@ -1,6 +1,6 @@
 # Weather Analysis 
 
-For this project I built a small website to display data and visualizations from an ealier project which used CityPy and Open weather data.
+For this project I built a small website to display data and visualizations from an ealier project which used CityPy to find cities near a randomly generated list of latitudes and longitudes and the OPen Weater Map API to gather weathe data on each city.
 
 [Click here to view the website](https://nikitacase.github.io/City-Weather-Analysis/)
 
