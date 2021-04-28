@@ -21,5 +21,5 @@ For this project I built a small website to display data and visualizations from
 * Python
 
 
-:smilecat:  Nikita Case
+😊 Nikita Case
 
